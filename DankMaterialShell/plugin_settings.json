@@ -1,0 +1,17 @@
+{
+  "dankKDEConnect": {
+    "enabled": true
+  },
+  "dankBatteryAlerts": {
+    "enabled": true
+  },
+  "dmsLenovoBatterySettings": {
+    "enabled": true
+  },
+  "pkgUpdate": {
+    "enabled": true
+  },
+  "emojiLauncher": {
+    "enabled": true
+  }
+}
